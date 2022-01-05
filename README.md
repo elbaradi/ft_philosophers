@@ -1,5 +1,7 @@
 Note: _This was my ninth 42 project, completed in September 2021. I created a simulated environment in which I deal with multiple data races. This README was written by the amazing [Qing Li](https://github.com/qingqingqingli), it was copied and adjusted with her permission; it perfectly describes the project._
 
+[![Logo](https://github.com/qingqingqingli/readme_images/blob/master/codam_logo_1.png)](https://github.com/elbaradi/ft_philosophers)
+
 # ft_philosophers
 
 ***This project focuses on the basics of threading a process and how to work on the same memory space. We learnt how to make `threads`, and discover the `mutex`, `semaphore` and `shared memory`.***
